@@ -71,8 +71,3 @@ Team order. In 2.1, 73 of 104 margins are positive for Team A. Check whether the
 Predictor sign conventions. Some signs (for example, Elo difference in 2.1) are counter-intuitive. Check variance inflation factors for Elo and FIFA ranking.
 
 
-
-
-Generative AI use
-
-[Team to complete, consistent with the signed AI Usage Declaration Form.]
